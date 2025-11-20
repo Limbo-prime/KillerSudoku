@@ -7,6 +7,6 @@ Compact solver in one file.
 2. To host a server:
    ```
        cd KillerSudoku/
-       npm install https-server-g
+       npm install http-server -g
        http-server
    ```
